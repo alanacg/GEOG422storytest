@@ -1,5 +1,5 @@
 var config = {
-    style: 'mapbox://styles/mapbox/streets-v11',
+    style: 'mapbox://styles/alanacg/clrjmsn2r000b01p58f1p9cne',
     accessToken: 'pk.eyJ1IjoiYWxhbmFjZyIsImEiOiJjbHI2dTdmaTgyYmJkMmtteWg4aTFyYjd0In0.4egkQvHeJNw_VNBgcSEZmg',
     showMarkers: true,
     markerColor: '#3FB1CE',
@@ -92,7 +92,7 @@ var config = {
         },
         {
             id: 'fourth-chapter',
-            alignment: 'fully',
+            alignment: 'full',
             hidden: false,
             title: 'Third Title',
             image: 'images/source.png',
